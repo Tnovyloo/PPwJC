@@ -1,17 +1,12 @@
 #include <stdio.h>
 
+/* 
+Zadanie 3
 
-// Zadanie 3
+Napisz program, który policzy znaki w pliku (parametr programu). 
+
+*/
 int main(int argc, char **argv) {
-
-    // int i;
-    // printf("Nazwa programu:\t%s\n", argv[0]);
-    // printf("Ilosc argumentow programu: \t%d \n", argc);
-
-    // for (int i = 0; i < argc; i++)
-    // {
-    //     printf("Argumentem nr %d jest %s\n", i, argv[i]);
-    // }
 
     printf("Nazwa argumentu:\n %s\n", argv[1]);
     FILE *plik = fopen(argv[1], "r");

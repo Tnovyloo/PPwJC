@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 // Zadanie 4
+/*
+Napisz program, który policzy linie w pliku (parametr programu). 
+*/ 
 int main(int argc, char **argv) {
 
 

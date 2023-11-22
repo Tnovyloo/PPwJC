@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // Zadanie 8
-// (*)Napisz program, który zlicza zapisane
+// (*) Napisz program, który zlicza zapisane
 // linijki w istniejącym pliku (parametr programu) i zapisuje ich liczbę do innego pliku
 // (drugi parametr programu)(*). 
 int main(int argc, char **argv) {

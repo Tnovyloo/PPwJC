@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 // Zadanie 7
+/* 
+Napisz  program,  który  wyświetla  na  ekranie  liczbę  wystąpień  cyfr,  małych  i  wielkich  liter  w  podanym  pliku  (parametr programu). 
+*/
 int main(int argc, char **argv) {
 
 
