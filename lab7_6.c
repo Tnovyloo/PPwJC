@@ -1,6 +1,11 @@
 #include <stdio.h>
 
 // Zadanie 6
+/*
+
+(*)Napisz program, który wpisuje do pliku (parametr programu) 40 znaków w wierszach 5-cio znakowych. 
+
+*/
 int main(int argc, char **argv) {
 
 

@@ -3,6 +3,9 @@
 
 
 // Zadanie 5
+/*
+Napisz program, który policzy słowa w pliku (parametr programu). 
+*/
 int main(int argc, char **argv) {
 
     printf("Nazwa argumentu:\n %s\n", argv[1]);

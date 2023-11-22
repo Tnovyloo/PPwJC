@@ -2,6 +2,9 @@
 
 
 // Zadanie 14
+/*
+Napisz  funkcje,  która  dostaje  jako  argument  ścieżkę  dostępu  do  pliku  tekstowego  i  wypisuje  na  standardowym  wyjściu zawartość pliku z pominięciem białych znaków. 
+*/
 int main(int argc, char **argv) {
 
     printf("Nazwa pliku:\n %s\n", argv[1]);
