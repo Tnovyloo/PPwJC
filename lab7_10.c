@@ -46,7 +46,7 @@ int main(int argc, char **argv) {
 
     printf("Usunieto %d spacji", countSpaces);
 
-    // Close both files
+    // Zamknij obydwa pliki
     fclose(plik);
     fclose(plik_bez_spacji);
 
